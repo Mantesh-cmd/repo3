@@ -1,2 +1,2 @@
-temp = lambda(x,y:x+y)
-print(temp)
+x = lambda(a,b:a+b)(10,20)
+print(x)
